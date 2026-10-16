@@ -1,4 +1,4 @@
-import{r as a,j as o}from"./index-B9TvCPYK.js";import{ap as f,V as m,aj as v,as as h,v as p}from"./react-three-fiber.esm-w3nEvOWD.js";const r={zIndex:100,opacity:.5,alpha:1},u="noise-v1",d=e=>e.toFixed(3),x=`
+import{r as a,j as o}from"./index-BA0J7NL9.js";import{ap as f,V as m,aj as v,as as h,v as p}from"./react-three-fiber.esm-ClKQZY4k.js";const r={zIndex:100,opacity:.5,alpha:1},u="noise-v1",d=e=>e.toFixed(3),x=`
   varying vec2 vUv;
   void main() {
     vUv = uv;
